@@ -1,6 +1,6 @@
 {
   "name": "cap-npm-package-test",
-  "description": "دسترسی به عملیات ذخیره و بازیابی اطلاعات در IndexDB برای فرانت اند",
+  "description": "نمونه کتابخانه آماده شده جهت توسعه پکیج ها بروی npm",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
