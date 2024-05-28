@@ -1,5 +1,5 @@
 {
-  "name": "cap-idb",
+  "name": "cap-npm-package-test",
   "description": "دسترسی به عملیات ذخیره و بازیابی اطلاعات در IndexDB برای فرانت اند",
   "version": "0.0.1",
   "main": "./dist/index.js",
