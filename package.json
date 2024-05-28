@@ -1,7 +1,7 @@
 {
   "name": "cap-npm-package-test",
   "description": "نمونه کتابخانه آماده شده جهت توسعه پکیج ها بروی npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
