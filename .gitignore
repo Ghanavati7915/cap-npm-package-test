@@ -1,0 +1,12 @@
+# Build
+/dist
+
+# Modules
+/node_modules
+
+# Private Data
+.env
+.DS_Store
+
+# IDE
+.idea

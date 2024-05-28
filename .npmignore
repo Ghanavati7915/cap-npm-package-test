@@ -1,0 +1,16 @@
+# Source
+/src
+
+# Modules
+/node_modules
+
+# Private Data
+.env
+.DS_Store
+
+# IDE
+.idea
+
+# Config
+tsconfig.json
+tsup.config.ts
