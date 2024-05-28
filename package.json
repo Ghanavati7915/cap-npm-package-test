@@ -5,6 +5,10 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/Ghanavati7915",
+  "repository": {
+    "url" : "https://github.com/Ghanavati7915/cap-npm-package-test"
+  },
   "scripts": {
     "build": "tsup"
   },
