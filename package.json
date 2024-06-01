@@ -1,7 +1,7 @@
 {
   "name": "cap-npm-package-test",
   "description": "نمونه کتابخانه آماده شده جهت توسعه پکیج ها بروی npm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "https://github.com/Ghanavati7915/cap-npm-package-test",
   "homepage": "https://github.com/Ghanavati7915",
   "license": "MIT",
@@ -28,7 +28,8 @@
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build build --stub && nuxt-module-build prepare && nuxi prepare playground",
-    "release": "npm run lint && npm run test && npm run prepack && changelogen --release && npm publish && git push --follow-tags",
+    "release": "npm run test && npm run prepack && changelogen --release && npm publish && git push --follow-tags",
+    "releaseWithLint": "npm run lint && npm run test && npm run prepack && changelogen --release && npm publish && git push --follow-tags",
     "lint": "eslint .",
     "test": "vitest run",
     "test:watch": "vitest watch",
