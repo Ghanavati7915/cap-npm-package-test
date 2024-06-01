@@ -1,10 +1,16 @@
 {
-  "name": "my-module",
-  "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "name": "cap-npm-package-test",
+  "description": "نمونه کتابخانه آماده شده جهت توسعه پکیج ها بروی npm",
+  "version": "0.0.3",
+  "repository": "https://github.com/Ghanavati7915/cap-npm-package-test",
+  "homepage": "https://github.com/Ghanavati7915",
   "license": "MIT",
   "type": "module",
+  "keywords": [
+    "ghanavati",
+    "cap"
+  ],
+  "author": "Ahmad Ghanavati",
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
