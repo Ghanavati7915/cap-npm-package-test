@@ -1,7 +1,7 @@
 {
   "name": "cap-npm-package-test",
   "description": "نمونه کتابخانه آماده شده جهت توسعه پکیج ها بروی npm",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "repository": "https://github.com/Ghanavati7915/cap-npm-package-test",
   "homepage": "https://github.com/Ghanavati7915",
   "license": "MIT",
